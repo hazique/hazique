@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Automation & Web**
 
-- 📫 How to reach me **mquazi@gmail.com**
+- 📫 How to reach me **mquazi@buffalo.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
