@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mobile app and backend for a friend’s business**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently revising **React.js/ Next.js & Express.js**. I'll be updating the page with my projects and portofolio links soon.
 
 - 💬 Ask me about **Automation & Web**
 
